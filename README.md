@@ -8,3 +8,7 @@ A Jupyter notebook with preliminary workflow to segment faults from dip calculat
 
 #### Multiple synthetic seismic models with vertical fault ####
 A Jupyter notebook whereby I take Agile Scientific's [x lines of code, Wedge model](https://github.com/agile-geoscience/xlines/blob/master/notebooks/00_Synthetic_wedge_model.ipynb) and adapt it to make 100 synthetic models: 10 impedance models x 10 wavelets x 10 random noise fields + 1 fault
+
+##### Run the notebooks interactively with Binder #####
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/faults/master)
+
