@@ -3,8 +3,8 @@
 * [Fun with faults](https://github.com/mycarta/faults/blob/master/fun_with_faults.ipynb)
 * [Multiple synthetic seismic models with vertical fault](https://github.com/mycarta/faults/blob/master/Multiple_synthetic_seismic_models_with_fault.ipynb)
 * [Multiple synthetic seismic models with oblique fault](https://github.com/mycarta/faults/blob/master/notebooks_dev/Multiple_synthetic_seismic_models_with_oblique_faults.ipynb) - in development
-* [Demonstrate_colormap_distortions_interactive_Panel.ipynb](https://github.com/mycarta/faults/blob/master/Demonstrate_colormap_distortions_interactive_Panel.ipynb)
-* [Demonstrate_colormap_distortions.ipynb](https://github.com/mycarta/faults/blob/master/Demonstrate_colormap_distortions.ipynb)
+* [Demonstrate_colormap_distortions_interactive_Panel](https://github.com/mycarta/faults/blob/master/Demonstrate_colormap_distortions_interactive_Panel.ipynb)
+* [Demonstrate_colormap_distortions](https://github.com/mycarta/faults/blob/master/Demonstrate_colormap_distortions.ipynb)
 
 
 #### Fun with faults ####
