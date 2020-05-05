@@ -2,7 +2,7 @@
 
 * [Fun with faults](https://github.com/mycarta/faults/blob/master/fun_with_faults.ipynb)
 * [Multiple synthetic seismic models with vertical fault](https://github.com/mycarta/faults/blob/master/Multiple_synthetic_seismic_models_with_fault.ipynb)
-* [Multiple synthetic seismic models with vertical fault](https://github.com/mycarta/faults/blob/master/Multiple_synthetic_seismic_models_with_oblique_faults.ipynb)
+* [Multiple synthetic seismic models with oblique fault](https://github.com/mycarta/faults/blob/master/Multiple_synthetic_seismic_models_with_oblique_faults.ipynb) - dev
 
 #### Fun with faults ####
 A Jupyter notebook with preliminary workflow to segment faults from dip calculated on a seismic horizon.
