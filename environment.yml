@@ -10,4 +10,6 @@ dependencies:
   - python=3.7.7
   - scipy=1.4.1
   - scikit-image=0.16.2
+packages:
+- jupyter_panel_proxy
   
