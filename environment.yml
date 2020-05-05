@@ -11,4 +11,3 @@ dependencies:
   - scipy=1.4.1
   - scikit-image=0.16.2
   
- 
