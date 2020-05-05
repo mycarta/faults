@@ -58,6 +58,7 @@ dependencies:
   - jupyter_core=4.6.3=py37_0
   - jupyterlab=1.2.6=pyhf63ae98_0
   - jupyterlab_server=1.1.1=py_0
+  - jupyter_panel_proxy
   - kiwisolver=1.2.0=py37h04f5b5a_0
   - krb5=1.17.1=hddcf347_0
   - libcurl=7.69.1=h051b688_0
