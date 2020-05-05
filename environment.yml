@@ -4,9 +4,7 @@ channels:
   - pyviz
   - defaults
 dependencies:
-  - jupyter_panel_proxy
   - numpy=1.18.1
-  - os
   - panel=0.9.5
   - param=1.9.3
   - python=3.7.7
