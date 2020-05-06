@@ -1,7 +1,8 @@
 name: faults
 channels:
   - conda-forge
-  - pyviz
+  - pyviz:
+	  - jupyter_panel_proxy 
   - defaults
 dependencies:
   - numpy=1.18.1
@@ -10,5 +11,4 @@ dependencies:
   - python=3.7.7
   - scipy=1.4.1
   - scikit-image=0.16.2
-  - jupyter_panel_proxy
   
